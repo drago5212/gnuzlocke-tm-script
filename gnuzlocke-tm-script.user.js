@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Gnuzlocke Live Sync
 // @namespace    gnuzlocke-live-sync
-// @version      0
+// @version      1.0
 // @description  Live sync for Nuzlocke Redux → Firebase
 // @match        https://nuzlocke-redux.vercel.app/*
 // @grant        GM_xmlhttpRequest
